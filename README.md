@@ -22,8 +22,8 @@ The case study focuses on EDA mainly, to understand which parameters are major t
    This project contains many conclusion about Lending club's Loan Distribution technique.
    This project provides many analysis with proof of data and various charts, that how lending Club should give loans, So that it doesn't face loss.
   
-  
-  Group Facilitator:
-* [Abhineet Chauhan](https://github.com/ABHI8896)
+## Contact  
+## Group Facilitator:
+ * [Abhineet Chauhan](https://github.com/ABHI8896)
 .
 
